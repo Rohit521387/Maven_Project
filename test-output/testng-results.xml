@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-02T23:56:57 IST" name="Suite" finished-at="2024-10-02T23:57:48 IST" duration-ms="51555">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T23:56:57 IST" name="Test" finished-at="2024-10-02T23:57:48 IST" duration-ms="51555">
+      <class name="amazon_Testcases.Testcase1">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:amazon_Testcases.Testcase1@48f278eb]" started-at="2024-10-02T23:56:57 IST" name="Launch_Browser" finished-at="2024-10-02T23:57:03 IST" duration-ms="5854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="Login_Amazon()[pri:0, instance:amazon_Testcases.Testcase1@48f278eb]" started-at="2024-10-02T23:57:03 IST" name="Login_Amazon" finished-at="2024-10-02T23:57:06 IST" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Amazon -->
+        <test-method is-config="true" signature="quit_Browser()[pri:0, instance:amazon_Testcases.Testcase1@48f278eb]" started-at="2024-10-02T23:57:06 IST" name="quit_Browser" finished-at="2024-10-02T23:57:17 IST" duration-ms="10432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_Browser -->
+      </class> <!-- amazon_Testcases.Testcase1 -->
+      <class name="amazon_Testcases.Testcase2">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:amazon_Testcases.Testcase2@23c30a20]" started-at="2024-10-02T23:57:17 IST" name="Launch_Browser" finished-at="2024-10-02T23:57:20 IST" duration-ms="3162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="searching()[pri:0, instance:amazon_Testcases.Testcase2@23c30a20]" started-at="2024-10-02T23:57:20 IST" name="searching" finished-at="2024-10-02T23:57:23 IST" duration-ms="3232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching -->
+        <test-method is-config="true" signature="quit_Browser()[pri:0, instance:amazon_Testcases.Testcase2@23c30a20]" started-at="2024-10-02T23:57:23 IST" name="quit_Browser" finished-at="2024-10-02T23:57:34 IST" duration-ms="10370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_Browser -->
+      </class> <!-- amazon_Testcases.Testcase2 -->
+      <class name="amazon_Testcases.Testcase3">
+        <test-method is-config="true" signature="Launch_Browser()[pri:0, instance:amazon_Testcases.Testcase3@1e1a0406]" started-at="2024-10-02T23:57:34 IST" name="Launch_Browser" finished-at="2024-10-02T23:57:36 IST" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser -->
+        <test-method signature="registration()[pri:0, instance:amazon_Testcases.Testcase3@1e1a0406]" started-at="2024-10-02T23:57:36 IST" name="registration" finished-at="2024-10-02T23:57:38 IST" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="quit_Browser()[pri:0, instance:amazon_Testcases.Testcase3@1e1a0406]" started-at="2024-10-02T23:57:38 IST" name="quit_Browser" finished-at="2024-10-02T23:57:48 IST" duration-ms="10327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_Browser -->
+      </class> <!-- amazon_Testcases.Testcase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
